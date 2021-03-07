@@ -7,8 +7,8 @@ I created a Jupyter notebook that clusters cryptocurrencies. I then plot the res
 The CSV file provided for this challenge contains price change data of cryptocurrencies.
 
 ## Key Tasks:
-1. Import the Data (provided in the starter code)
-2. Prepare the Data (provided in the starter code)
+1. Import the Data 
+2. Prepare the Data
 3. Cluster Cryptocurrencies with K-means
 4. Find the Best Value for k
 5. Optimize Clusters with Principal Component Analysis
